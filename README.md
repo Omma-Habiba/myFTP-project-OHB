@@ -39,7 +39,7 @@ npm install
 * I install babel and nodemon
 ````sh
  npm i nodemon @babel/core @babel/preset-env @babel/node @babel/cli
- Npm install nodemon
+ npm install nodemon
  ````
  
  * Run server at first
