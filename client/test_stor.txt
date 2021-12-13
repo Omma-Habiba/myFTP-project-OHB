@@ -1,0 +1,1 @@
+Texte pour tester le fonctionnement de STOR. Pour executer, faire : STOR test_stor.txt. Une copie de ce fichier apparaitra dans le dossier server.
